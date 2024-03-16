@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚÷°8Ó’ş”˜1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ8ã’ş”˜1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹›æ”8ã’ş”˜1
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÁÑ•¹8ã’ş”˜1
+h
+java:S1858"F"str" is already a string, there's no need to call "toString()" on it.(×ı¸øÿÿÿÿ8ã’ş”˜1

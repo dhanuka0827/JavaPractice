@@ -1,0 +1,30 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£áøÿÿÿÿ
+Œ
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+M	java:S106"9Replace this use of System.out or System.err by a logger.(’µåV
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘¤¯Ìşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÁµíùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Óáï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú°¯èùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë›´Á
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ğ¦ûï
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ó¶çşÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(´·ªğüÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ˆ«óş
+G
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+K
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+A
+java:S1128	"+Remove this unused import 'java.util.Date'.(¸…¼ü
+S
+java:S1144&"8Remove this unused private "getCurrentEpochTime" method.(Ò¿õöÿÿÿÿÿ
+H
+java:S1144-"2Remove this unused private "getSQSBatches" method.(Ç’õĞ

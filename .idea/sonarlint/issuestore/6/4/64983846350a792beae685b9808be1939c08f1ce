@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£áøÿÿÿÿ
+d
+java:S1854	"GRemove this useless assignment to local variable "wfmActiveTenantList".(ğóî8£™¢å1
+U
+java:S1481	"8Remove this unused "wfmActiveTenantList" local variable.(ğóî8£™¢å1

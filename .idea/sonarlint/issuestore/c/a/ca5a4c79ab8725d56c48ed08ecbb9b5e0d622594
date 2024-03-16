@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄò£úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş›Ì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¤Áùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ä¼¤·ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î¿ı‰
+P	java:S125""<This block of commented-out lines of code should be removed.(ª¦‡W
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(’·«¾ûÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(¹Õş†
+L
+java:S1144!"6Remove this unused private "checkParellelList" method.(ñ·È„

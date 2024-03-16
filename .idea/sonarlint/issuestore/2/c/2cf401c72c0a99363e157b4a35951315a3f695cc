@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄò£úÿÿÿÿ8¨õ²Ç•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éÄÄÌşÿÿÿÿ8Ëõ²Ç•1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÓıË®úÿÿÿÿ8 ½·Ç•1
+`
+java:S1854*">Remove this useless assignment to local variable "substrings".(Âåí„ÿÿÿÿÿ8Ëõ²Ç•1
+Q
+java:S1481*"/Remove this unused "substrings" local variable.(Âåí„ÿÿÿÿÿ8Ëõ²Ç•1
+L
+java:S1197,"*Move the array designators [] to the type.(‚ŠÁÚùÿÿÿÿ8Ôõ²Ç•1
+\
+java:S1144)":Remove this unused private "getSmallestAndLargest" method.(Ö¹ñÒùÿÿÿÿ8 ½·Ç•1
+a
+java:S1144<"?Remove this unused private "getSmallestAndLargestJava8" method.(ìÔêøÿÿÿÿ8 ½·Ç•1

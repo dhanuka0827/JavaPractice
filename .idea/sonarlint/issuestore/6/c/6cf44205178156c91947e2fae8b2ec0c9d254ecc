@@ -1,0 +1,7 @@
+
+“
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¸˜šåµ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸œçûÿÿÿÿ8¼˜šåµ1
+R
+java:S1128"0Remove this unused import 'dsa.kk.pojo.Student'.(ëî€êúÿÿÿÿ8¼˜šåµ1

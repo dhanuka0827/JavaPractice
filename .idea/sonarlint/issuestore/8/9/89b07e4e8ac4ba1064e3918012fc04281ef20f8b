@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£áøÿÿÿÿ8êÊêŠ·1
+]	java:S125	"<This block of commented-out lines of code should be removed.(¡¢ªüÿÿÿÿ8ïÊêŠ·1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µø±èøÿÿÿÿ8ïÊêŠ·1
+R
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8ïÊêŠ·1

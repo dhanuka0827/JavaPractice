@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄò£úÿÿÿÿ8ÅÕØá1
+a
+java:S1854"?Remove this useless assignment to local variable "sortedArray".(¤‰ù»ıÿÿÿÿ8ÔÕØá1
+R
+java:S1481"0Remove this unused "sortedArray" local variable.(¤‰ù»ıÿÿÿÿ8ÔÕØá1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ÔÕØá1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÉÆ…·üÿÿÿÿ8ÔÕØá1
+]	java:S125"<This block of commented-out lines of code should be removed.(ª­Âïøÿÿÿÿ8ÔÕØá1
+X	java:S125"<This block of commented-out lines of code should be removed.(º§¥æ8ÔÕØá1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Ôê¾ûÿÿÿÿ8²ñİá1
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(ÆÕE8²ñİá1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¶Òİá1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶Òİá1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¶Òİá1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¶Òİá1

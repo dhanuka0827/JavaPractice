@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄò£úÿÿÿÿ8½ÿ”ö•1
+X	java:S125"<This block of commented-out lines of code should be removed.(ñùî¾8¥—¹ö•1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËÇ„è8Çÿ”ö•1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ËÇ„è8Ý“ºö•1
+]	java:S125,"<This block of commented-out lines of code should be removed.(È†âÂøÿÿÿÿ8ÜÐ¸ö•1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ÜÐ¸ö•1
+P
+java:S1144".Remove this unused private "isAnagram" method.(øùÓ±üÿÿÿÿ8³—¹ö•1

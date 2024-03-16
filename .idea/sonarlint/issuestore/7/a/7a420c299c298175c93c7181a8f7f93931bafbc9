@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£žáøÿÿÿÿ
+d
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(«–‹Áþÿÿÿÿ8½… žŒ1
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(ñõ‹¥
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Å… žŒ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Å… žŒ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Å… žŒ1
+c
+java:S1128"GRemove this unused import 'java.util.concurrent.ConcurrentLinkedQueue'.(°½Âh8Å… žŒ1

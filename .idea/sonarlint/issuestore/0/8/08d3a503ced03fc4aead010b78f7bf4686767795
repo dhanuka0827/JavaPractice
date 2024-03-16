@@ -1,0 +1,8 @@
+
+ˆ
+java:S1192"fDefine a constant instead of duplicating this literal "([01]?[0-9]{1,2}|2[0-4][0-9]|25[0-5])" 4 times.(‚ÚĞÒúÿÿÿÿ8‰­¡¼—1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×“‹úÿÿÿÿ8ªù’¼—1
+m	java:S116"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÚĞÒúÿÿÿÿ8‰­¡¼—1
+m	java:S116"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©—´¦úÿÿÿÿ8‰­¡¼—1
+h	java:S116"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¿æÃ8‰­¡¼—1
+h	java:S116"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ†ùú8‰­¡¼—1

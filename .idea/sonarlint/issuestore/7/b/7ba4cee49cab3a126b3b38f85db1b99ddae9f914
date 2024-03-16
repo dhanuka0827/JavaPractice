@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄò£úÿÿÿÿ8Œ­£†1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘´â‚üÿÿÿÿ8àŞ£†1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Îá‡S8®­£†1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(²—¬‚8¯­£†1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÈÑİ÷8±­£†1
+L
+java:S1172"*Remove this unused method parameter "arr".(‘´â‚üÿÿÿÿ8ùŞ£†1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ş¼¬ìÿÿÿÿÿ8³­£†1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(²—¬‚8´­£†1
+Q
+java:S1144"/Remove this unused private "bubbleSort" method.(Úè˜ûÿÿÿÿ8´­£†1

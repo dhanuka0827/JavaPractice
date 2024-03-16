@@ -1,0 +1,21 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(«Š
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£áøÿÿÿÿ
+Y
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ÛŒĞô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öõ‰Ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™„Àùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½´úÚûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©å‚Ãÿÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(èåÎ¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÒ®Áúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öú÷ïıÿÿÿÿ
+t
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(èåÎ¦
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¶øö™úÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(¬ƒîi
+S	java:S106("9Replace this use of System.out or System.err by a logger.(æş±øÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£áøÿÿÿÿ8…Æ¢Œ1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(İÌÆ8Æ¢Œ1
+]	java:S125	"<This block of commented-out lines of code should be removed.(š½»üıÿÿÿÿ8Æ¢Œ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¥…ğ%8’Æ¢Œ1
+E
+java:S1172"(Remove this unused method parameter "a".(—øÜ8¦ş¢Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Úõÿöıÿÿÿÿ8¦ş¢Œ1
+c
+java:S1128"GRemove this unused import 'java.util.concurrent.ConcurrentLinkedQueue'.(°½Âh8æì¢Œ1
+h
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicBoolean'.(§­‹¼üÿÿÿÿ8æì¢Œ1
+h
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8æì¢Œ1

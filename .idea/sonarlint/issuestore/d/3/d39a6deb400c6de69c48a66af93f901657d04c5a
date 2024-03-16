@@ -1,0 +1,22 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª£žáøÿÿÿÿ8†³¬‹™1
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¢›®½øÿÿÿÿ8³¬‹™1
+B
+java:S2157"%Add a "clone()" method to this class.(é†ÁÇ8³¬‹™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šò¸²8‘³¬‹™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–½¾‘8’³¬‹™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(š»¸Õ8’³¬‹™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓéëÍ8˜³¬‹™1
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¢›®½øÿÿÿÿ8’³¬‹™1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¤è’P8ïÇ­‹™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­Â—æ8ïÇ­‹™1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¨«áýÿÿÿÿ8’³¬‹™1
+:
+java:S2119"Save and re-use this "Random".(¼ÝÅf8–³¬‹™1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.( Ž±ü8óÇ­‹™1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8š³¬‹™1
+K
+java:S1144".Remove this unused private "newMethod" method.(ú§žÂ8›³¬‹™1

@@ -1,0 +1,28 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄò£úÿÿÿÿ8øéœû•1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¨ÆÉÙúÿÿÿÿ8ÿéœû•1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¨ÆÉÙúÿÿÿÿ8ˆêœû•1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¨ÆÉÙúÿÿÿÿ8å‚ºû•1
+‰
+java:S11303"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ˆêœû•1
+]	java:S1254"<This block of commented-out lines of code should be removed.(§¬›„ýÿÿÿÿ8ˆêœû•1
+]	java:S125@"<This block of commented-out lines of code should be removed.(Ð°¶óüÿÿÿÿ8ˆêœû•1
+C
+java:S1128"&Remove this unused import 'java.math'.(âî©8ßÝºû•1
+G
+java:S1128"*Remove this unused import 'java.security'.(èÛò§8àÝºû•1
+C
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí8àÝºû•1
+M
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íÐ¢68àÝºû•1
+L
+java:S1128	"/Remove this unused import 'java.util.function'.(Üþ’¿8àÝºû•1
+I
+java:S1128
+",Remove this unused import 'java.util.regex'.(£‘¬Þ8àÝºû•1
+O
+java:S1128"-Remove this unused import 'java.util.stream'.(§æÐçøÿÿÿÿ8àÝºû•1
+b
+java:S1128"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âþÿÿÿÿ8àÝºû•1
+\
+java:S1128"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8àÝºû•1
