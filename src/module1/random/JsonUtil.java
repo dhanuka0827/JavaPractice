@@ -1,7 +1,5 @@
 package module1.random;
 
-import org.json.JSONObject;
-
 import java.util.List;
 
 public class JsonUtil {
